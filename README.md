@@ -1,5 +1,5 @@
 # Timele
-Timele: An application project built using Dart and Flutter for the front end, Python and Django for the back end, and Django REST Framework for the API. SQLite is used as the database.
+Timele: An application project built using Dart and Flutter for the frontend, Python and Django for the backend, and Django REST Framework for the API. SQLite is used as the database.
 
 ![Timele1](https://github.com/najmulhasan-code/Timele/assets/123287444/f567968b-b25a-47bf-bf80-f0fcf7628593)
 
